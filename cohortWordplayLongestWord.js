@@ -1,3 +1,5 @@
+// What is the longest word that contains no vowels?
+
 const fs = require('fs');
 
 function hasNoVowels(word) {

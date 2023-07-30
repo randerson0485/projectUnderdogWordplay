@@ -1,3 +1,5 @@
+// How many words contain the substring "TYPE”?
+
 const fs = require('fs');
 
 function countWordsWithSubstring(text, substring) {

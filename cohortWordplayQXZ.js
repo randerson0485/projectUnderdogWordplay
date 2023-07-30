@@ -1,3 +1,5 @@
+// Which of the letters Q, X, and Z is the least common?
+
 const fs = require('fs');
 
 function findLeastCommonLetters(text, lettersToFind) {

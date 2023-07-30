@@ -1,3 +1,5 @@
+// What are all of the words that have a B and an X and are less than 5 letters long?
+
 const fs = require('fs');
 
 function findWordsBXLessThan5Letters(text) {

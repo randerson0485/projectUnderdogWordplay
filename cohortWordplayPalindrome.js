@@ -1,3 +1,5 @@
+// What is the longest palindrome?
+
 const fs = require('fs');
 
 function isPalindrome(word) {

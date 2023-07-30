@@ -1,3 +1,4 @@
+// What are all of the words containing an X and a Y and a Z?
 const fs = require('fs');
 
 function findWordsContainingXYZ(text) {

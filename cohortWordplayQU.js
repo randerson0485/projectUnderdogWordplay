@@ -1,3 +1,4 @@
+// What are all of the words containing a Q but not a U?
 const fs = require('fs');
 
 function findWordsContainingQNotU(text) {

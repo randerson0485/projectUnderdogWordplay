@@ -3,6 +3,8 @@ const fs = require('fs');
 function hasAllVowelsInOrder(word) {
   return /A.*E.*I.*O.*U/i.test(word);
 }
+// What are all of the words that have all 5 vowels, in alphabetical order?
+
 
 function findWordsWithAllVowelsInOrder(text) {
   const words = text.split(/\s+/);

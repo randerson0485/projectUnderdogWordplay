@@ -1,3 +1,5 @@
+// What are all of the words with no vowel and not even a Y?
+
 const fs = require('fs');
 
 function findWordsWithoutVowels(text) {

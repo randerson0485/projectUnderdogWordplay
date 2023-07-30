@@ -1,3 +1,5 @@
+// What are all of the words containing UU?
+
 const fs = require('fs');
 
 function findWordsContainingUU(text) {
